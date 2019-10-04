@@ -86,8 +86,8 @@ body{background-color: #B2D0B2;}
   background-color: red;
   text-align: center;
   cursor: pointer;
-  width: 100%;
-  font-size: 18px;
+  width: 40%;
+  font-size: 15px;
 }
 
 .card button:hover {
