@@ -10,7 +10,7 @@ Pages with HTML, CSS and javaScript, employing PHP or javascript for its backend
 
 2.Clone the repository
 
-3.Add as remote upstream using git remote add upstream https://github.com/siyfa/Ariadne-Solar-Calculator.git
+3.#####
 
 4.Create a branch using git checkout -b branch-name PS:- The branch name can be any name you wish, but it should be meaningful.
 
